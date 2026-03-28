@@ -1,0 +1,14 @@
+.DS_Store
+._*
+*.tgz
+
+Requests/
+Renders/
+unity/GotchiCustomRenderer/[Ll]ibrary/
+unity/GotchiCustomRenderer/[Tt]emp/
+unity/GotchiCustomRenderer/[Oo]bj/
+unity/GotchiCustomRenderer/[Bb]uild/
+unity/GotchiCustomRenderer/[Bb]uilds/
+unity/GotchiCustomRenderer/[Ll]ogs/
+unity/GotchiCustomRenderer/UserSettings/
+unity/GotchiCustomRenderer/MemoryCaptures/

@@ -1,0 +1,300 @@
+1	head	Camo Hat
+4	head	Snow Camo Hat
+7	head	Marine Cap
+10	head	Link White Hat
+21	head	Captain Aave Mask
+24	head	Thaave Helmet
+27	head	Marc Hair
+30	head	Jordan Hair
+33	head	Stani Hair
+39	head	Foxy Mask
+42	head	Eagle Mask
+45	head	Ape Mask
+48	head	Xibot Mohawk
+52	head	Galaxy Brain
+59	head	Aagent Fedora Hat
+60	head	Common Wizard Hat
+61	head	Legendary Wizard Hat
+62	head	Mythical Wizard Hat
+63	head	Godlike Wizard Hat
+67	head	Straw Hat
+71	head	Red Santa Hat
+72	head	Jaay Hairpiece
+77	head	Bitcoin Beanie
+80	head	Sushi Bandana
+84	head	Gentleman Hat
+87	head	Miner Helmet
+90	head	Pajama Hat
+94	head	Sweatband
+97	head	Pillbox Hat
+101	head	Witchy Hat
+104	head	Portal Mage Helmet
+108	head	Rasta Hat
+111	head	Hazmat Hood
+124	head	Beer Helmet
+131	head	Dragon Horns
+133	head	Pointy Horns
+136	head	Polygon Cap
+139	head	Snapshot Cap
+142	head	Princess Tiara
+144	head	Princess Hair
+145	head	Godli Locks
+147	head	Tiny Crown
+149	head	Royal Crown
+161	head	Lil Pump Dreads
+206	head	Biker Helmet
+211	head	Guy Fawkes Mask
+218	head	Mohawk
+221	head	Pirate Hat
+226	head	Red Headband
+228	head	10 Gallon Hat
+232	head	Poncho Hoodie
+235	head	Shaaman Hoodie
+239	head	Wagie Cap
+242	head	Yellow Manbun
+245	head	Gecko Hat
+252	head	Aastronaut Helmet
+255	head	Space Helmet
+292	head	Brunette Ponytail
+298	head	Horned Helmet
+300	head	Feathered Cap
+302	head	Geisha Headpiece
+308	head	Red Hair
+309	head	Citaadel Helm
+313	head	Kabuto Helmet
+363	head	FAKE Beret
+370	head	Wavy Hair
+376	head	Lick Brain
+380	head	Sebastien Hair
+387	head	Roflnoggin
+420	head	Jesse Pollak Hair
+2	body	Camo Pants
+5	body	Snow Camo Pants
+8	body	Marine Jacket
+11	body	Link Mess Dress
+15	body	Red Plaid
+16	body	Blue Plaid
+19	body	Aave Hero Shirt
+22	body	Captain Aave Suit
+25	body	Thaave Suit
+28	body	Marc Outfit
+31	body	Jordan Suit
+34	body	Stani Lifejacket
+37	body	ETH TShirt
+43	body	Nogara Armor
+46	body	Half Rekt Shirt
+50	body	GldnXross Robe
+54	body	Llamacorn Shirt
+56	body	Aagent Shirt
+68	body	Farmer Jeans
+74	body	Jaay Suit
+78	body	Black Jeans
+81	body	Sushi Coat
+85	body	Gentleman Coat
+88	body	Miner Jeans
+91	body	Pajama Shirt
+95	body	Track Shorts
+98	body	Day Dress
+102	body	Witchy Cloak
+105	body	Portal Mage Armor
+109	body	Rasta Shirt
+112	body	Hazmat Suit
+114	body	Red Hawaiian Shirt
+115	body	Blue Hawaiian Shirt
+125	body	Track Suit
+132	body	Dragon Wings
+135	body	Polygon Shirt
+138	body	Snapshot Shirt
+143	body	Gold Necklace
+150	body	Royal Robes
+160	body	Lil Pump Threads
+200	body	Steampunk Trousers
+203	body	Gamer Jacket
+207	body	Biker Jacket
+213	body	H4xx0r Shirt
+220	body	Punk Shirt
+222	body	Pirate Coat
+227	body	23 Jersey
+230	body	Wraangler Jeans
+231	body	Comfy Poncho
+234	body	Shaaman Poncho
+241	body	WGMI Shirt
+244	body	V-Neck Shirt
+248	body	Up Only Shirt
+250	body	CoinGecko Tee
+253	body	Aastronaut Suit
+256	body	Lil Bubble Space Suit
+258	body	Taoist Robe
+293	body	Leather Tunic
+297	body	Animal Skins
+303	body	Kimono
+307	body	Fairy Wings
+310	body	Plate Armor
+314	body	Yoroi Armor
+350	body	Pixelcraft Tee
+354	body	Alchemica Apron
+358	body	Flaming Apron
+362	body	FAKE Shirt
+366	body	Heavenly Robes
+372	body	Party Dress
+373	body	Overalls
+383	body	Sandbox Hoodie
+411	body	Aloha Flowers
+418	body	Base Shirt
+13	face	Sergey Beard
+18	face	Aave Hero Mask
+55	face	Aagent Headset
+140	face	Elf Ears
+146	face	Imperial Moustache
+157	face	Lil Pump Goatee
+209	face	Horseshoe Mustache
+216	face	Rainbow Vomit
+219	face	Mutton Chops
+240	face	Headphones
+260	face	Beard of Wisdom
+263	face	Signal Headset
+295	face	Forked Beard
+306	face	Flower Studs
+356	face	Bandage
+368	face	Beard of Divinity
+371	face	Plastic Earrings
+378	face	Lick Tongue
+382	face	GOAT-ee
+384	face	Faangs
+405	face	Freckles
+409	face	Braces
+412	face	Baable Gum
+414	face	Cheap Mask
+416	face	Kawaii Mouth
+14	eyes	Sergey Eyes
+36	eyes	ETH Logo Glasses
+49	eyes	Coderdan Shades
+53	eyes	All Seeing Eyes
+57	eyes	Aagent Shades
+66	eyes	Wizard Visor
+73	eyes	Jaay Glasses
+86	eyes	Monocle
+117	eyes	Cool Shades
+159	eyes	Lil Pump Shades
+199	eyes	Steampunk Goggles
+202	eyes	VR Headset
+208	eyes	Aviators
+214	eyes	Matrix Eyes
+215	eyes	Cyborg Eye
+224	eyes	Pirate Patch
+243	eyes	Tinted Shades
+246	eyes	APY Shades
+249	eyes	Gecko Eyes
+259	eyes	Bushy Eyebrows
+262	eyes	Radar Eyes
+301	eyes	Alluring Eyes
+351	eyes	3D Glasses
+355	eyes	Safety Glasses
+359	eyes	Forge Goggles
+367	eyes	Eyes of Devotion
+377	eyes	Lick Eyes
+381	eyes	Voxel Eyes
+385	eyes	Block Scanners
+404	eyes	Granny Glasses
+407	eyes	Based Shades
+408	eyes	Rasta Glasses
+3	hand	MK2 Grenade
+6	hand	M67 Grenade
+9	hand	Walkie-talkie
+12	hand	Link Bubbly
+17	hand	LINK Cube
+20	hand	Aave Plush Toy
+23	hand	Captain Aave Shield
+26	hand	Thaave Hammer
+29	hand	REKT Sign
+32	hand	Aave Flag
+38	hand	32 ETH Coin
+41	hand	Trezor Wallet
+44	hand	DAO Egg
+47	hand	Waifu Pillow
+51	hand	Mudgen Diamond
+58	hand	Aagent Pistol
+64	hand	Common Wizard Staff
+65	hand	Legendary Wizard Staff
+69	hand	Pitchfork
+70	hand	Handsaw
+75	hand	OKex Sign
+76	hand	Big GHST Token
+79	hand	Skateboard
+82	hand	Sushi Piece
+83	hand	Sushi Knife
+89	hand	Pickaxe
+92	hand	Bedtime Milk
+93	hand	Fluffy Pillow
+96	hand	Water bottle
+99	hand	Parasol
+100	hand	Clutch
+103	hand	Witchy Wand
+106	hand	Portal Mage Axe
+107	hand	Portal Mage Black Axe
+110	hand	Jamaican Flag
+113	hand	Uranium Rod
+116	hand	Coconut
+118	hand	Water Jug
+119	hand	Baby Bottle
+120	hand	Martini
+121	hand	Wine
+122	hand	Milkshake
+123	hand	Apple Juice
+130	hand	Fireball
+134	hand	L2 Sign
+137	hand	Vote Sign
+141	hand	Gemstone Ring
+148	hand	Royal Sceptre
+158	hand	Lil Pump Drank
+201	hand	Mechanical Claw
+204	hand	Game Controller
+205	hand	Gotchi Mug
+212	hand	1337 Laptop
+217	hand	Energy Gun
+223	hand	Hook Hand
+225	hand	Basketball
+229	hand	Lasso
+247	hand	Up Arrow
+251	hand	Candy Jaar
+254	hand	uGOTCHI Token
+257	hand	Bitcoin Guitar
+294	hand	Bow and Arrow
+296	hand	Double-sided Axe
+299	hand	Longbow
+304	hand	Paper Fan
+311	hand	Spirit Sword
+312	hand	Plate Shield
+315	hand	Haanzo Katana
+352	hand	Pixelcraft Square
+357	hand	Nail Gun
+360	hand	Geode Smasher
+364	hand	Paint Brush
+365	hand	Paint Palette
+369	hand	Staff of Creation
+375	hand	GM Seeds
+379	hand	Lick Tentacle
+386	hand	Staff of Charming
+419	hand	Base App
+35	pet	Aave Boat
+40	pet	Foxy Tail
+151	pet	Common Rofl
+152	pet	Uncommon Rofl
+153	pet	Rare Rofl
+154	pet	Legendary Rofl
+155	pet	Mythical Rofl
+156	pet	Royal Rofl
+233	pet	Uncommon Cacti
+236	pet	Blue Cacti
+237	pet	Mythical Cacti
+238	pet	Godlike Cacti
+261	pet	Aantenna Bot
+305	pet	Sus Butterfly
+353	pet	Nimbus
+361	pet	Geo
+374	pet	Lens n Frens Plant
+406	pet	Common Stohn
+410	pet	Uncommon Stohn
+413	pet	Rare Stohn
+415	pet	Wild Fungi
+417	pet	Baby Licky
